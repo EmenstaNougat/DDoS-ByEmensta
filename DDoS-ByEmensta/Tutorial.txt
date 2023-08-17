@@ -1,0 +1,20 @@
+				--------------------DDoS-By Emensta  //thanks for choosing my tool! :D--------------------
+
+	How to run:
+
+		Windows:
+
+		1. open "CMD"
+
+		2. "cd" > into the folder which contains the "DDoS-ByEmensta.py" file
+
+		3. type "python DDoS-ByEmensta.py"   -   press enter
+
+
+		Linux/Kali Linux:
+
+		1. open the "Terminal"
+
+		2. "cd" > into the folder which contains the "DDoS-ByEmensta.py" file
+
+		3. type "python DDoS-ByEmensta.py"   -   press enter
