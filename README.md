@@ -4,28 +4,16 @@ DDoS attacks serve malicious purposes, such as disrupting online services, causi
 
 				--------------------DDoS-By Emensta  //thanks for choosing my tool! :D--------------------
 
-	How to run:
+	How to run: Win/Linux/KaliLinux
 
-		Windows:option 1:
+		1. git clone https://github.com/EmenstaNougat/DDoS-ByEmensta.git
 
-		1. open "CMD"
+		2. cd DDoS-ByEmensta
 
-		2. "cd" > into the folder which contains the "DDoS-ByEmensta.py" file
-
-		3. type "python DDoS-ByEmensta.py"   -   press enter
+		3. python DDoS-ByEmensta.py
 
 
-		Windows:option 2:
+	Note:
+		- on Windows systems use "CMD"
 
-		1. open the "WindowsVersion(.py, exe)" directory
-
-		2. run "DDoS-ByEmensta.exe"   -   (it´s the script convertet into a executable)
-
-
-		Linux/Kali Linux:
-
-		1. open the "Terminal"
-
-		2. "cd" > into the folder which contains the "DDoS-ByEmensta.py" file
-
-		3. type "python DDoS-ByEmensta.py"   -   press enter
+		- on Debian based systems (Linux/KaliLinux) use "Terminal"
